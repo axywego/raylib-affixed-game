@@ -1,0 +1,9 @@
+build/
+cmake-build-*/
+out/
+.cache/
+compile_commands.json
+.vs/
+.vscode/
+.idea/
+*.user
